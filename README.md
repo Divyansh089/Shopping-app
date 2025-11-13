@@ -66,4 +66,8 @@ This is a small and modern e-commerce frontend made with React, Vite, and Tailwi
 
 ## How to install 
 - Just open terminal and run : npm i
+<<<<<<< HEAD
 - Then  : npm run dev
+=======
+- Then  : npm run dev
+>>>>>>> 064be598d76c02c9cf03f2dc51a0e59f0a193cfa
